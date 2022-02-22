@@ -18,7 +18,7 @@ Estou estudando com o objetivo de me tornar um desenvolvedor FullStack.
 ## Estou me aprofundando
 <div style="display: inline_block">
  <img align="center" alt="icone Typescript" title="Typescript" width="30" src="https://raw.githubusercontent.com/devicons/devicon/master/icons/typescript/typescript-plain.svg">
- <img align="center" alt="icone NextJS" title="NextJS"  width="30" src="https://github.com/devicons/devicon/blob/master/icons/nextjs/nextjs-original.svg">
+ <img align="center" alt="icone NextJS" title="NextJS"  width="30" src="https://raw.githubusercontent.com/devicons/devicon/master/icons/nextjs/nextjs-original.svg" >
 </div>
 
 ## Pretendo aprender 
