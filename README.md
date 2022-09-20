@@ -20,11 +20,6 @@ Estou estudando com o objetivo de me tornar um desenvolvedor FullStack.
 
 </div>
 
-## Estou me aprofundando
-<div style="display: inline_block">
- <img align="center" src="https://raw.githubusercontent.com/devicons/devicon/master/icons/redux/redux-original.svg" alt="redux" width="30" />
-</div>
-
 ## Pretendo aprender 
 
 <div style="display: inline_block">
