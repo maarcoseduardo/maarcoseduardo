@@ -1,6 +1,6 @@
 ### Hi there 👋
 
-Me chamo Marcos Eduardo, tenho 26 anos, me formei em Redes de computadores mas estou migrando para desenvolvimento.
+Me chamo Marcos Eduardo, tenho 27 anos, me formei em Redes de computadores mas estou migrando para desenvolvimento.
 
 Estou estudando com o objetivo de me tornar um desenvolvedor FullStack.
 
