@@ -14,7 +14,8 @@ Estou estudando com o objetivo de me tornar um desenvolvedor FullStack.
   <img align="center" alt="icone JavaScript" title="Javascript"  width="30" src="https://raw.githubusercontent.com/devicons/devicon/master/icons/javascript/javascript-plain.svg">
   <img align="center" alt="icone Typescript" title="Typescript" width="30" src="https://raw.githubusercontent.com/devicons/devicon/master/icons/typescript/typescript-plain.svg">
   <img align="center" alt="icone ReactJS" title="React JS"  width="30" src="https://raw.githubusercontent.com/devicons/devicon/master/icons/react/react-original.svg">
-  <img align="center" alt="icone NextJS" title="NextJS"  width="30" src="https://raw.githubusercontent.com/devicons/devicon/master/icons/nextjs/nextjs-original.svg" >
+  <img align="center" alt="icone NextJS" title="NextJS"  width="30" src="https://raw.githubusercontent.com/devicons/devicon/master/icons/nextjs/nextjs-original.svg">
+  <img align="center" alt="icone NodeJS" title="Node JS" width="30" src="https://raw.githubusercontent.com/devicons/devicon/master/icons/nodejs/nodejs-original.svg">
   <img align="center" src="https://raw.githubusercontent.com/devicons/devicon/master/icons/mysql/mysql-original-wordmark.svg" alt="mysql" width="30" />
 </p>
 
@@ -24,7 +25,6 @@ Estou estudando com o objetivo de me tornar um desenvolvedor FullStack.
 
 <div style="display: inline_block">
   <img align="center" src="https://www.vectorlogo.zone/logos/graphql/graphql-icon.svg" alt="graphql" width="30" />
-  <img align="center" alt="icone NodeJS" title="Node JS" width="30" src="https://raw.githubusercontent.com/devicons/devicon/master/icons/nodejs/nodejs-original.svg">
   <img align="center" src="https://raw.githubusercontent.com/devicons/devicon/master/icons/docker/docker-original-wordmark.svg" alt="docker" width="40" />
 </div>
 
