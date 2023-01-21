@@ -17,17 +17,11 @@ Estou estudando com o objetivo de me tornar um desenvolvedor FullStack.
   <img align="center" alt="icone NextJS" title="NextJS"  width="30" src="https://raw.githubusercontent.com/devicons/devicon/master/icons/nextjs/nextjs-original.svg">
   <img align="center" alt="icone NodeJS" title="Node JS" width="30" src="https://raw.githubusercontent.com/devicons/devicon/master/icons/nodejs/nodejs-original.svg">
   <img align="center" src="https://raw.githubusercontent.com/devicons/devicon/master/icons/mysql/mysql-original-wordmark.svg" alt="mysql" width="30" />
+  <img align="center" src="https://www.vectorlogo.zone/logos/graphql/graphql-icon.svg" alt="graphql" width="30" />
+  <img align="center" src="https://raw.githubusercontent.com/devicons/devicon/master/icons/docker/docker-original-wordmark.svg" alt="docker" width="40" />
 </p>
 
 </div>
-
-## Pretendo aprender 
-
-<div style="display: inline_block">
-  <img align="center" src="https://www.vectorlogo.zone/logos/graphql/graphql-icon.svg" alt="graphql" width="30" />
-  <img align="center" src="https://raw.githubusercontent.com/devicons/devicon/master/icons/docker/docker-original-wordmark.svg" alt="docker" width="40" />
-</div>
-
 
 ## Você pode me encontrar nas seguintes redes sociais:
 
